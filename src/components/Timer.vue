@@ -118,7 +118,7 @@ export default {
   @media all and (max-width: 768px) {
     .pomodoro__timer {
       font-size: 3rem;
-      bottom: 50px;
+      bottom: -12%;
     }
   }
 }
